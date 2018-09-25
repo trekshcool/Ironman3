@@ -1,6 +1,6 @@
 ## Computing Techonologies:
-Computer (PC)
-JARVIS (AI)
+#Computer (PC)
+ #JARVIS (AI)
 Technological implants
 Robotic arm (Dunce bot)
 Camera
