@@ -2,9 +2,9 @@
 title: This will be used as the title-tag of the page head
 ---
  
-hello
+Computing Technologies
 =====
-### Computing Technologies
+
 
 ## J.A.R.V.I.S. (Aritifical Intellgence):
 - Timestamps: 
