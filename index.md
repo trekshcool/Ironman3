@@ -1,3 +1,13 @@
++++
+date = "2018-09-25"
+draft = false
+title = "Technology List"
+
+categories = ["Tech List"]
+weight = 2
+type = "post"
++++
+
 ## Computing Techonologies:
 #Computer (PC)
  #JARVIS (AI)
