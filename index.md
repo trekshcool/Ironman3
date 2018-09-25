@@ -6,7 +6,7 @@ title: This will be used as the title-tag of the page head
  
 Computing Technologies
 =====
-[test file](https://github.com/trekshcool/Ironman3/blob/master/title.md)
+[Members](https://github.com/trekshcool/Ironman3/blob/master/title.md)
 
 ## J.A.R.V.I.S. (Aritifical Intellgence):
 - Timestamps: 
