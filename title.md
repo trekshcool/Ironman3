@@ -1,4 +1,4 @@
-'[HOME]'(https://trekshcool.github.io/Ironman3/index)
+[HOME](https://trekshcool.github.io/Ironman3/index)
 # MEMBERS
 
 ### SAMUEL BAUMGARTEN
