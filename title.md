@@ -1,19 +1,15 @@
-## J.A.R.V.I.S. (Aritifical Intellgence):
-- Timestamps: 
-- Description: 
-- Category: 
-- Realistic: 
+#### MEMBERS
 
-## Suitcase Armor:
-- Timestamps: 
-- Description: 
-- Category: 
-- Realistic?
+## SAMUEL BAUMGARTEN
+- SECTION: 
 
-## Repulsor Ray
-- Timestamps: 
-- Description: 
-- Category: 
-- Realistic? 
+## MARWAHA TREKSH
+- SECTION: 
 
-[Timeline](https://trekshcool.github.io/Ironman3/timeline)
+
+## BENJAMIN WAID
+- SECTION: 
+
+## YUAN WANG
+- SECTION: 
+
