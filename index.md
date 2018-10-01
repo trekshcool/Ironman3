@@ -3,6 +3,8 @@
 
 [Members](https://github.com/trekshcool/Ironman3/blob/master/title.md)
 
+[Title page](https://trekshcool.github.io/Ironman3/title)
+
 ## J.A.R.V.I.S. (Aritifical Intellgence):
 - Timestamps: 
 - Description: 
@@ -21,4 +23,4 @@
 - Category: 
 - Realistic? 
 
-[Title page](https://trekshcool.github.io/Ironman3/title)
+
