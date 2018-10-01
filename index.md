@@ -2,7 +2,7 @@
 
 [INTENT]
 
-[MEMBERS](https://github.com/trekshcool/Ironman3/blob/master/title) 
+[MEMBERS](https://github.com/trekshcool/Ironman3/title) 
 
 [PLOT-TIMELINE](https://trekshcool.github.io/Ironman3/timeline)
 
