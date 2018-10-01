@@ -1,8 +1,8 @@
-![logo](https://raw.githubusercontent.com/trekshcool/Ironman3/master/Image/Screen%20Shot%202018-09-30%20at%2022.25.20.png)
+![logo](https://github.com/trekshcool/Ironman3/blob/master/Image/Screen%20Shot%202018-09-30%20at%2022.25.20.png)
 
 [INTENT]
 
-[MEMBERS](https://github.com/trekshcool/Ironman3/title) 
+[MEMBERS](https://trekshcool.github.io/Ironman3/title) 
 
 [PLOT-TIMELINE](https://trekshcool.github.io/Ironman3/timeline)
 
