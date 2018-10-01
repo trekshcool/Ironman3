@@ -1,4 +1,4 @@
-######### MEMBERS
+# MEMBERS
 
 ## SAMUEL BAUMGARTEN
 - SECTION: 
