@@ -15,5 +15,5 @@
 ## 'Vitural Reality, Augment Reality and Mixed Reality' 
 - Timestamps: Whole Movie in Stark Lab; Helmet Display in suit.
 - Description: Mark series armer suit has the built in HUD (Head-up Display) which is a kind of augment reality. In "Iron Man 3", Tony's Helmet has five icons which are kept persistently in the lower part:suit status-, targeting-, and optics-, rader-, artificial horizon-, and object-sensitive awareness.The HUD's visor allows Tony to see the world around him as if he ware not wearing it and gave the most usedful data to Stark. Also, Tony Stark's holograms is a combination of VR, AR and MR.From the audience's perspective, Tony is immersed in 3-D demonstrations that he can watch from all sides and fully interact with, very easily.
-- Category: HUD is existing; Holograms is in fictions.
-- Realistic: 
+- Category: HUD is existing; Holograms is in fiction.
+- Realistic: Head-up Display is existing in military use. United States military is getting [High-Tech Helmets](https://www.businessinsider.com/david-cenciotti-f-22-raptor-getting-high-tech-helmets-2013-3) for F-22 Raptor Pilots which can show all the information pilots needed: Statistics about the airplane, missile targeting operation and route tracking display which is very similar as Tony's suit did.
