@@ -16,7 +16,7 @@
 [TECH-LIST](https://trekshcool.github.io/Ironman3/techlist)
 
 
-[TOPICS](https://trekshcool.github.io/Ironman3/topic)
+[TOPICS](https://trekshcool.github.io/Ironman3/topics)
 
 
 [CREDITS]
