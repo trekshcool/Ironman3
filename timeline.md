@@ -40,4 +40,5 @@ Stark has no time to process this as he is forced into a fierce fight with Killi
 ### PLOT13 (116:00)
 In the aftermath of the events on the container terminal, Stark makes a promise to Potts that he'll find a cure for her Extremis condition and orders J.A.R.V.I.S. to remotely destroy each of the Iron Man suits. Both Vice President Rodriguez and Trevor are taken into police custody as Stark decides to undergo surgery to remove the pieces of shrapnel embedded in his heart. Stark has decided that even without his suits or the Arc Reactor in his chest, he will always be Iron Man.
 
+[HOME](https://trekshcool.github.io/Ironman3/index)
 
