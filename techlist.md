@@ -13,7 +13,7 @@
 - Realistic: It is existed in industries area. [Volkswagen](https://www.forbes.com/sites/jenniferhicks/2013/08/29/volkswagen-turns-robotic-arms-into-production-assistants/#2d1cecde29fd) has integrated an industrial robotic to collaborate directly with employees at a Volkswagen plant in Salzgitter Germany.(2013) It is the first collaborative six-axis robotic arm in use at Volkswagen worldwide.It can achieve the same functionalities as Dum-E and U did. Another robot called [Dr.Robot](http://fortune.com/2013/01/15/meet-your-next-surgeon-dr-robot/) is a surgeon robot arm assistant operated by users to do the accurate opeartions inside the patient body.
 
 ## 'Vitural Reality, Augment Reality and Mixed Reality' 
-- Timestamps: Whole Movie in Stark Lab
-- Description: 
-- Category: 
+- Timestamps: Whole Movie in Stark Lab; Helmet Display in suit.
+- Description: Mark series armer suit has the built in HUD (Head-up Display) which is a kind of augment reality. In "Iron Man 3", Tony's Helmet has five icons which are kept persistently in the lower part:suit status-, targeting-, and optics-, rader-, artificial horizon-, and object-sensitive awareness.The HUD's visor allows Tony to see the world around him as if he ware not wearing it and gave the most usedful data to Stark. Also, Tony Stark's holograms is a combination of VR, AR and MR.From the audience's perspective, Tony is immersed in 3-D demonstrations that he can watch from all sides and fully interact with, very easily.
+- Category: HUD is existing; Holograms is in fictions.
 - Realistic: 
