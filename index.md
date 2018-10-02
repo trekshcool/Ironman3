@@ -13,7 +13,7 @@
 [PRESENTATION]
 
 
-[TECH-LIST]
+[TECH-LIST](https://trekshcool.github.io/Ironman3/techlist)
 
 
 [TOPICS]
